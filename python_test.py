@@ -8,3 +8,6 @@ print(np.cos(np.pi/2))
 a = np.pi
 
 print(a)
+
+def p1(x):
+    return 1
